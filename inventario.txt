@@ -1,0 +1,5 @@
+Articulo {nombre = "Camiseta Hugo Boss", categoria = "Camisetas"}
+Articulo {nombre = "Balon de Voleibol", categoria = "Deportivo"}
+Articulo {nombre = "Balon de Futbol", categoria = "Deportivo"}
+Articulo {nombre = "Tostadora", categoria = "Electrica"}
+Articulo {nombre = "Licuadora", categoria = "Electrica"}
